@@ -1,44 +1,33 @@
-# Frontend Mentor - Product preview card component solution
+# 🛍️ Product Preview Card Component
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Repositório dedicado ao exercício ["Product Preview Card Component"](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) do site [Frontend Mentor](https://www.frontendmentor.io).
 
-## Table of contents
+## 🎯Desafio
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+"This HTML & CSS-only challenge will be perfect for anyone starting to build responsive projects."
 
-## Overview
+*(Este desafio apenas em HTML e CSS será perfeito para quem está a começar a criar projectos responsivos.)*
 
-### The challenge
+### ⚒️ Tecnologias utilizadas 
+- HTML5
+- CSS3
 
-Users should be able to:
+### 🤩 Resultado
 
-- View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
+- [Confira aqui o resultado!](https://fem-vn-product-preview-card-component.netlify.app)
 
-### Screenshot
+### 📸 Screenshots
 
-![](./design/solution-screenshot.png)
+<details style="margin-left: 28px;">
+  <summary style="margin-bottom: 10px;">Desktop:</summary>
+  
+  <img src="./solution/solution-desktop-screenshot.png" alt="Desktop solution screenshot" style="width: 400px;"></img>
+     
+</details>
 
-### Links
+<details style="margin-left: 28px;">
+  <summary style="margin-bottom: 10px;">Mobile:</summary>
+  
+  <img src="./solution/solution-mobile-screenshot.png" alt="Mobile solution screenshot" style="height: 400px;"></img>
 
-- Solution URL: [https://nuzzi-product-preview-card-component.netlify.app/](https://nuzzi-product-preview-card-component.netlify.app/)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
-
-## Author
-
-- Website - [...]()
-- Frontend Mentor - [@victormnuzzi](https://www.frontendmentor.io/profile/victormnuzzi)
+</details>
